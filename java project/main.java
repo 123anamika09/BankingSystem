@@ -102,6 +102,8 @@ public class main {
 
 
 // record > 1 for transaction km se km 2
+
+    
 //     bhejne wale ka login 
 //     acc no + loop for acc  no exist store indx
 //     add index money on that index
